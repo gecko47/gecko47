@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gecko47
-- 👀 I’m interested in smart contract programming and programming regressions
-- 🌱 I’m currently learning Solidity and Python
-- 💞️ I’m looking to collaborate on beginner Solidity projects
+- 👀 I’m interested in C# and the Unity game engine
+- 🌱 I’m currently learning C# and Unity
+- 💞️ I’m looking to collaborate on beginner Unity projects
 - 📫 You can reach me on github!
 
 <!---
